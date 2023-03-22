@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="google.cloud.storage" />
+          <option value="utils.config" />
+          <option value="app.llm.gpt3.llm" />
+          <option value="bigquery.*" />
+          <option value="app.llm.codex.storage" />
+          <option value="storage.get_table_metadata" />
+          <option value="utils.util" />
+          <option value="app.llm.embedding.utils" />
+          <option value="app.llm.embedding.multipledispatch" />
+          <option value="app.llm.gpt3.utils" />
+          <option value="app.bigquery.dataset.utils" />
+          <option value="app.bigquery.dataset.google" />
+          <option value="app.llm.codex.utils" />
+          <option value="app.storage.get_table_metadata.utils" />
+          <option value="pyrebase" />
+          <option value="cpanel.cpanel.views.student_name" />
+          <option value="cpanel.cpanel.views.student_collegae" />
+          <option value="cpanel.cpanel.views.student_city" />
+          <option value="cpanel.cpanel.views.student_data" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
